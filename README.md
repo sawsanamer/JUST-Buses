@@ -1,4 +1,4 @@
-  # **Just Buses**
+  # **JUST Buses**
   
 **Summary**
 - A system that allows to book bus seats, view bus capacity, routes, pick up locations, and estimated arrival time to a specific location through a mobile application. This is made possible by a passenger counting system that is installed on the buses. The system is tailored for buses that do not use a schedule to operate.
