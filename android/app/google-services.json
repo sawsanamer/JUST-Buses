@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962479923742",
+    "project_id": "just-busses",
+    "storage_bucket": "just-busses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962479923742:android:c8c101444c2dbdec12840f",
+        "android_client_info": {
+          "package_name": "com.sawsanamer.just_busses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962479923742-orb5dr5f9qj274i2h23s09c2ph6agnsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmvjTGBcJaSCIGwxd5OuhOYM34J92kos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962479923742-orb5dr5f9qj274i2h23s09c2ph6agnsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
